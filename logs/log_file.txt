@@ -64,3 +64,19 @@
 2026-02-04 14:20:53, Data loaded to Database
 2026-02-04 14:20:53, Running queries
 2026-02-04 14:21:04, ETL Job Ended
+2026-02-04 16:22:45, Extract phase started
+2026-02-04 16:22:45, Data extraction completed
+2026-02-04 16:22:52, Transform phase started
+2026-02-04 16:22:52, Data transformation completed
+2026-02-04 16:22:54, Data saved to CSV
+2026-02-04 16:23:00, Data loaded to Database
+2026-02-04 16:23:13, ETL Job Ended
+2026-02-04 16:28:48, ETL Job Started
+2026-02-04 16:28:48, Extract phase Started
+2026-02-04 16:28:48, Data extraction complete
+2026-02-04 16:28:48, Transform phase Started
+2026-02-04 16:28:48, Data transformation complete
+2026-02-04 16:28:48, Data saved to CSV
+2026-02-04 16:28:48, Data loaded to Database
+2026-02-04 16:28:48, Running queries
+2026-02-04 16:29:08, ETL Job Ended
