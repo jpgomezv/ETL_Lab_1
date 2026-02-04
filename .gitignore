@@ -11,3 +11,4 @@ wheels/
 
 # Lab resources (references)
 .lab_resources/
+.DS_Store
