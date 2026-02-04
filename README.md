@@ -33,9 +33,16 @@ This project uses `uv` for modern, fast dependency management. This ensures that
 ### 1. Install uv
 If you don't have `uv` installed, get it here: [https://docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/)
 
-For example, on Windows (PowerShell):
+You can install it easily using one of these commands:
+
+**Using winget (Windows):**
 ```powershell
-powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+winget install astral-sh.uv
+```
+
+**Using pip:**
+```bash
+pip install uv
 ```
 
 ### 2. Run the Project
